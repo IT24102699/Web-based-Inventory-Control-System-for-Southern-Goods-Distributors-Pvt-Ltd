@@ -43,30 +43,27 @@ The system includes the following core functionalities:
 
 The system is designed with a clear separation of users, core functions, and the database.    
 
-
 **Users:** Different stakeholders interact with the system based on their roles and permissions.    
 
-
 **Core System:** This is the central web application that houses the key functions:    
-          + Reporting and Analytics    
-          + User Management    
-          + Stock Management     
-          + Order Processing     
-
+- Reporting and Analytics    
+- User Management    
+- Stock Management     
+- Order Processing     
 
 **Data:** A central system database that the web application reads from and writes to.    
 
-<img width="1204" height="1016" alt="image" src="https://github.com/user-attachments/assets/ceb47a16-57dc-41b1-b778-a31dd88c206a" />
+<center> <img width="1204" height="1016" alt="image" src="https://github.com/user-attachments/assets/ceb47a16-57dc-41b1-b778-a31dd88c206a" /> <center/>
 
 
 ## 👥 Target Users / Stakeholders
 
-          **Business Owner:** Views high-level reports for strategic decision-making.     
-          **Inventory Manager:** Tracks stock levels, manages alerts, and oversees reordering.     
-          **Warehouse Staff:** Manages physical inventory using the warehouse interface.     
-          **Sales Staff:** Checks stock availability and order status.     
-          **Suppliers:** Receive automated purchase orders.    
-          **System Administrator:** Manages user accounts, backups, and system security.    
+1. **Business Owner:** Views high-level reports for strategic decision-making.     
+2. **Inventory Manager:** Tracks stock levels, manages alerts, and oversees reordering.     
+3. **Warehouse Staff:** Manages physical inventory using the warehouse interface.     
+4. **Sales Staff:** Checks stock availability and order status.     
+5. **Suppliers:** Receive automated purchase orders.    
+6. **System Administrator:** Manages user accounts, backups, and system security.    
 
 ## ⛓️ Limitations
 
