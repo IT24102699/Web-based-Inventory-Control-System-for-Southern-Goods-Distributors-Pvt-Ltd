@@ -1,31 +1,31 @@
 # Web-based Inventory Control System for Southern Goods Distributors Pvt Ltd
-
-
+<br>
+<br>
 ## 📖 Introduction
-
+<br>
 This project is a web-based inventory control system designed for Southern Goods Distributors Pvt Ltd, a growing distributor of grocery and household goods in Sri Lanka. The system aims to replace their current manual, paper-based, and spreadsheet-driven processes with a centralized, efficient, and user-friendly web application.
+<br>
 
-
-## ⚠️ The Problem
-
-The manual inventory management processes at Southern Goods Distributors Pvt Ltd have led to several business challenges, 
-including:
-          1. Frequent stock discrepancies and miscounts.
-          2. Delayed or overdue orders.
-          3. Poor communication with suppliers.
-          4. Lack of real-time visibility into stock levels.
-          5. Inefficient and error-prone workflows.
+## ⚠️ The Problem     
+<br>
+The manual inventory management processes at Southern Goods Distributors Pvt Ltd have led to several business challenges,       
+including:     
+          - Frequent stock discrepancies and miscounts.   
+          - Delayed or overdue orders.    
+          - Poor communication with suppliers.    
+          - Lack of real-time visibility into stock levels.     
+          - Inefficient and error-prone workflows.    
 
 
 ## 🎯 Objectives
 
 The primary goal is to develop a scalable and secure system that addresses the current challenges. 
 The key objectives are:
-          1. **Centralize Inventory Tracking:** Replace manual systems with a web-based platform for real-time updates and stock visibility.
-          2. **Minimize Errors:** Reduce stock miscounts and incorrect order picking through automation and accurate data.
-          3. **Improve Decision Making:** Allow sales and warehouse staff to check stock levels instantly for better customer service.
-          4. **Enhance User Experience:** Create an intuitive system that is easy to adopt for all user roles with minimal training.
-          5. **Streamline Procurement:** Automate the creation and delivery of purchase orders to suppliers.
+          - **Centralize Inventory Tracking:** Replace manual systems with a web-based platform for real-time updates and stock visibility.
+          - **Minimize Errors:** Reduce stock miscounts and incorrect order picking through automation and accurate data.
+          - **Improve Decision Making:** Allow sales and warehouse staff to check stock levels instantly for better customer service.
+          - **Enhance User Experience:** Create an intuitive system that is easy to adopt for all user roles with minimal training.
+          - **Streamline Procurement:** Automate the creation and delivery of purchase orders to suppliers.
 
 
 ## ✨ Key Features
