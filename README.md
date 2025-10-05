@@ -1,34 +1,34 @@
 # Web-based Inventory Control System for Southern Goods Distributors Pvt Ltd
 <br>
-<br>
+
 ## 📖 Introduction
-<br>
+
 This project is a web-based inventory control system designed for Southern Goods Distributors Pvt Ltd, a growing distributor of grocery and household goods in Sri Lanka. The system aims to replace their current manual, paper-based, and spreadsheet-driven processes with a centralized, efficient, and user-friendly web application.
 <br>
 
 ## ⚠️ The Problem     
-<br>
+
 The manual inventory management processes at Southern Goods Distributors Pvt Ltd have led to several business challenges,       
 including:     
-          - Frequent stock discrepancies and miscounts.   
-          - Delayed or overdue orders.    
-          - Poor communication with suppliers.    
-          - Lack of real-time visibility into stock levels.     
-          - Inefficient and error-prone workflows.    
-
+          1. Frequent stock discrepancies and miscounts.   
+          2. Delayed or overdue orders.    
+          3. Poor communication with suppliers.    
+          4. Lack of real-time visibility into stock levels.     
+          5. Inefficient and error-prone workflows.    
+<br>
 
 ## 🎯 Objectives
 
 The primary goal is to develop a scalable and secure system that addresses the current challenges. 
 The key objectives are:
-          - **Centralize Inventory Tracking:** Replace manual systems with a web-based platform for real-time updates and stock visibility.
-          - **Minimize Errors:** Reduce stock miscounts and incorrect order picking through automation and accurate data.
-          - **Improve Decision Making:** Allow sales and warehouse staff to check stock levels instantly for better customer service.
-          - **Enhance User Experience:** Create an intuitive system that is easy to adopt for all user roles with minimal training.
-          - **Streamline Procurement:** Automate the creation and delivery of purchase orders to suppliers.
+          1. **Centralize Inventory Tracking:** Replace manual systems with a web-based platform for real-time updates and stock visibility.
+          2. **Minimize Errors:** Reduce stock miscounts and incorrect order picking through automation and accurate data.
+          3. **Improve Decision Making:** Allow sales and warehouse staff to check stock levels instantly for better customer service.
+          4. **Enhance User Experience:** Create an intuitive system that is easy to adopt for all user roles with minimal training.
+          5. **Streamline Procurement:** Automate the creation and delivery of purchase orders to suppliers.
+<br>
 
-
-## ✨ Key Features
+## ✨ Key Features  
 
 The system includes the following core functionalities:
           1. **Real-time Inventory Dashboard:** A live dashboard displaying current stock levels, low-stock alerts, and incoming inventory.
@@ -37,7 +37,7 @@ The system includes the following core functionalities:
           4. **Warehouse Operations Interface:** A mobile-friendly interface with barcode scanning capabilities for receiving, picking, and packing goods.
           5. **User and Access Management:** Secure, role-based access control for different stakeholders (e.g., Business Owner, Sales Staff, Warehouse Staff).
           6. **Automated Data Backups:** Regular and reliable backups to prevent data loss.
-
+<br>
 
 ## 🏗️ System Architecture
 
@@ -54,7 +54,7 @@ The system is designed with a clear separation of users, core functions, and the
 **Data:** A central system database that the web application reads from and writes to.
 
 <img width="1204" height="1016" alt="image" src="https://github.com/user-attachments/assets/ceb47a16-57dc-41b1-b778-a31dd88c206a" />
-
+<br>
 
 ## 👥 Target Users / Stakeholders
 
@@ -64,7 +64,7 @@ The system is designed with a clear separation of users, core functions, and the
 **Sales Staff:** Checks stock availability and order status.
 **Suppliers:** Receive automated purchase orders.
 **System Administrator:** Manages user accounts, backups, and system security.
-
+<br>
 
 ## ⛓️ Limitations
 
